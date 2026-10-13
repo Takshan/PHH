@@ -1,0 +1,12 @@
+{
+  "grid_source": "Vesanto 5*sqrt(N) at 23,038 loci with max group mean >= 1 TPM in >= 1 condition (=759), fixed 28x27 = 756 neurons; no sweep run. s03 blanks the ADAD2-AS1 CLC division artefact for every unmasked gene set.",
+  "production_grid": {
+    "x_dim": 28,
+    "y_dim": 27,
+    "n_neurons": 756
+  },
+  "qe_at_production_grid": null,
+  "qe_definition": "sqrt(mean(fit$distances) / (n_genes * n_conditions)); kohonen's own error scale, as plotted",
+  "rlen": 1000,
+  "seed": 143
+}

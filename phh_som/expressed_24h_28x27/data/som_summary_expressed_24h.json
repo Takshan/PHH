@@ -1,0 +1,10 @@
+{
+  "n_matched": 23038,
+  "n_deg_in_any_condition": 930,
+  "grid": "28x27",
+  "n_neurons": 756,
+  "seed": 143,
+  "rlen": 1000,
+  "converged_qe": 0.00279,
+  "vesanto_5sqrtN": 759
+}

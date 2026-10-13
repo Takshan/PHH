@@ -1,0 +1,12 @@
+{
+  "grid_source": "fixed 28x27 = 756 neurons (same grid as expressed_28x27, deliberately - comparability, not density, drives the choice); trained on the 10 untreated/Ruxo 24 hpi contrasts only (s03 --hpi 24)",
+  "production_grid": {
+    "x_dim": 28,
+    "y_dim": 27,
+    "n_neurons": 756
+  },
+  "qe_at_production_grid": null,
+  "qe_definition": "sqrt(mean(fit$distances) / (n_genes * n_conditions)); kohonen's own error scale, as plotted",
+  "rlen": 1000,
+  "seed": 143
+}

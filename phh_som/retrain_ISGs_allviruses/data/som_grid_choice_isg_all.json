@@ -1,0 +1,24 @@
+{
+  "elbows": {
+    "1.0%/neuron": 42,
+    "0.5%/neuron": 90,
+    "0.25%/neuron": 90
+  },
+  "marginal_min": 0.5,
+  "rule_would_select": {
+    "x_dim": 6,
+    "y_dim": 5,
+    "n_neurons": 30
+  },
+  "rule_definition": "DIAGNOSTIC ONLY, not used to pick the grid: first grid with marginal QE gain < 0.5 %/neuron. Seed-dependent - 25 neurons in 3 of 21 seeds on the ISG panel.",
+  "grid_source": "pipeline.GRID_X/GRID_Y (manual)",
+  "production_grid": {
+    "x_dim": 5,
+    "y_dim": 5,
+    "n_neurons": 25
+  },
+  "qe_at_production_grid": 0.0185184251955044,
+  "qe_definition": "sqrt(mean(fit$distances) / (n_genes * n_conditions)); kohonen's own error scale, as plotted",
+  "rlen": 1000,
+  "seed": 143
+}

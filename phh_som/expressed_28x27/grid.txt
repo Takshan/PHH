@@ -1,0 +1,4 @@
+grid: 28x27 = 756 neurons (fixed, seed 143, rlen 1000)
+gene set: expressed
+driver: run_som_universes.sh
+details: data/som_grid_choice_expressed.json

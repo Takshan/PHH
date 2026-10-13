@@ -1,0 +1,9 @@
+module,n_members,epoch,best_neuron,n_in_best,frac_in_best,jaccard_best,n_neurons_occupied
+IFN-ligand (N1),1,24h,291,1,1.0,0.2,1
+IFN-ligand (N1),1,72h,756,1,1.0,1.0,1
+IRF3-direct effector (N28),7,24h,1,5,0.7142857142857143,0.7142857142857143,2
+IRF3-direct effector (N28),7,72h,252,1,0.14285714285714285,0.0625,7
+antigen-presentation (N84),4,24h,23,2,0.5,0.4,3
+antigen-presentation (N84),4,72h,743,1,0.25,0.2,4
+DENV acute-phase (N43+42+44),62,24h,359,9,0.14516129032258066,0.11538461538461539,36
+DENV acute-phase (N43+42+44),62,72h,392,8,0.12903225806451613,0.10526315789473684,25

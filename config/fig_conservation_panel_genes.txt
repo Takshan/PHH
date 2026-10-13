@@ -1,0 +1,28 @@
+# Panel b of figs_conservation_upset: the conserved components shown as rows.
+#
+# This file is the figure's input. conservation_programmes.py reads nothing else
+# for panel b - in particular it does not read the manuscript - so editing here
+# is the only way the panel's rows change, and a co-author rewriting the text
+# cannot silently redraw the figure.
+#
+# One HGNC symbol per line, in the order the rows should be drawn.
+# Shorthand (MX1/2, OAS1/2/3) must be written out. Run
+# `--genes auto` for the unsupervised counterpart of this list.
+STAT1
+STAT2
+IRF7
+IRF9
+ISG15
+MX1
+MX2
+OAS1
+OAS2
+OAS3
+IFIH1
+IFIT1
+IFIT2
+IFIT3
+RSAD2
+USP18
+HLA-B
+B2M
