@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phh-som"
+version = "1.0.0"
+description = "Self-organizing map analysis of the primary human hepatocyte response to orthoflavivirus infection"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas==3.0.1",
+    "numpy==2.4.1",
+    "matplotlib==3.10.8",
+    "scipy==1.18.0",
+    "pyarrow==23.0.1",
+    "openpyxl==3.1.5",
+    "upsetplot==0.9.0",
+    "plotnine==0.15.8",
+    "pycirclize==1.10.1",
+]
+
+[project.scripts]
+phh-som = "phh_som.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["phh_som*"]

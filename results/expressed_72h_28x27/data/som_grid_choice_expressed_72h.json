@@ -1,0 +1,7 @@
+{
+  "production_grid": {
+    "x_dim": 28,
+    "y_dim": 27,
+    "n_neurons": 756
+  }
+}

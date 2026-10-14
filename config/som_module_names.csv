@@ -1,0 +1,51 @@
+unit,module,merged_from
+756,type I/III interferon ligands,756
+754,IFI44L/MX2/ZBP1,754
+753,IFITM1/IFI27,753
+727,ISG15/MX1/IFI6 effectors,727
+728,IRF3-direct effectors & chemokines,728
+697,HLA-F/PLAAT2,697
+726,RLR sensors & OAS amplifier,726
+668,secreted immunomodulators (IL33/IL4I1/MDK),668
+725,ISGF3 signalling & checkpoints,725
+698,cytosolic sensors (MDA5/LGP2),698
+724,BCL2L14,724
+695,ISGF3 effector core & antigen processing,695
+751,"PARP9/14, STAT2, TRIM22",751
+638,IGFBP1/IL18BP/BCL2A1,638
+582,HIF/glycolytic (HK2/STC1/DKK1),582
+696,IRF9/ZNFX1/IFIT5,696
+666,MHC-I & B2M,666
+677,CX3CL1/HLA-DOB,677
+637,CD74/CD68/MT1M,637
+723,GBP1/IL1RN/SLFN5,723
+722,RNF213/APOL3/UBA7/APOBEC3,722
+649,DUOX2/HCAR/EBI3 (WNV-dominant),649
+594,ETS2/ZFP36 immediate-early,594
+749,acute-phase & tryptophan (SAA2/TDO2/IDO2),749
+554,AP-1/CCL20 stress,554
+565,ID1/TFPI2,565
+665,lysosomal/class-II processing,665
+622,ADM/NOD2/IL16,622
+593,AREG/PTX3,593
+721,broad ISG chassis (PARP/TRIM/PSMB8),721
+693,"complement C4/C1R, IFITM2/3",693
+650,IRF1/SOCS3/NF-kB arm,650
+648,integrated stress response (ATF3/BBC3),648
+61,CYP3A4/HOGA1,61
+65,broad secretory/ER,65
+93,CYP2E1/CYP3A5/CAT/SCD core identity,93
+9,peroxisomal & hepatokine (EHHADH/GHR),9
+113,ACADSB/PRKAA2,113
+33,AKR1C4/GPAM lipid & bile,33
+4,alcohol dehydrogenases & CYP1A2,4
+85,unnamed lncRNA,85
+62,broad housekeeping/adhesion,62
+6,iron/ferritin & CYP2A6,6
+34,GSTA2/ACOX1/UGT1A9 detox,34
+32,UGT2B15/SULT1E1 conjugation,32
+57,MUC6/FMO1,57
+58,CYP2A7/CYP3A43 (partly rescued),58
+59,HMGCS2/AKR1D1/LECT2 ketogenic,59
+31,GNMT/SRD5A2/GUCA2B,31
+56,rRNA / MT-RNR (technical),56

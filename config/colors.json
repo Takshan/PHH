@@ -1,0 +1,58 @@
+{
+  "viruses": {
+    "ZIKV": "#90BFF9",
+    "WNV": "#1099B2",
+    "TBEV": "#DF8BF9",
+    "DENV": "#946420",
+    "YFV": "#FF8080"
+  },
+  "host": "#D9D9D9",
+  "mock": "#999999",
+  "padjust_gradient": [
+    [
+      0.0,
+      "#E8875A"
+    ],
+    [
+      0.25,
+      "#F0CDB8"
+    ],
+    [
+      0.5,
+      "#F5F2EC"
+    ],
+    [
+      0.75,
+      "#A9B0BC"
+    ],
+    [
+      1.0,
+      "#3E4A68"
+    ]
+  ],
+  "volcano": {
+    "NS": "#D9D9D9",
+    "Log2 FC": "#A9B0BC",
+    "FDR": "#3E4A68",
+    "FDR & Log2 FC": "#E8875A"
+  },
+  "go_plot": {
+    "bubble_scale": 90,
+    "absent_size": 4,
+    "absent_color": "#D9D9D9",
+    "ratio_sizes": [
+      0.0,
+      0.2,
+      0.4,
+      0.6,
+      0.8
+    ],
+    "padj_ticks": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ]
+  }
+}

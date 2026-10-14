@@ -1,0 +1,7 @@
+{
+  "grid": "5x5",
+  "n_neurons": 25,
+  "seed": 143,
+  "rlen": 1000,
+  "converged_qe": 0.01852
+}

@@ -1,0 +1,5 @@
+virus,tail,n_drawn,n_in_dependent,n_expected,fold,pvalue,dependent_neurons,n_dependent,n_panel
+WNV,resistant,50,0,14.0,0.0,1.8120111130995665e-08,1 3 7 13,107,382
+WNV,suppressed,50,33,14.0,2.36,1.7044674916774615e-09,1 3 7 13,107,382
+YFV,resistant,50,0,14.0,0.0,1.8120111130995665e-08,1 3 7 13,107,382
+YFV,suppressed,50,31,14.0,2.21,6.355983874988804e-08,1 3 7 13,107,382
