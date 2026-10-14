@@ -16,7 +16,7 @@ inhibitor ruxolitinib, at 24 and 72 hpi.
 ![kohonen](https://img.shields.io/badge/kohonen-SOM-276DC3)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**Author:** [Rahul Brahma](https://github.com/Takshan)
+
 
 ## Installation
 
